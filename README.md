@@ -73,8 +73,8 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | AniList | Anime discovery & tracking | `OAuth` | Yes | <a href="https://github.com/AniList/ApiV2-GraphQL-Docs" target="_blank">Gooooooooooooooo!</a> | 
 | Jikan | Unofficial MyAnimeList API | No | Yes | [Go!](https://jikan.me){:target="_blank"} |
-| Kitsu | Anime discovery platform | `OAuth` | Yes | [Go!](http://docs.kitsu.apiary.io/) |
-| Studio Ghibli | Resources from Studio Ghibli films | No | Yes | [Go!](https://ghibliapi.herokuapp.com) |
+| Kitsu | Anime discovery platform | `OAuth` | Yes | [Go!](http://docs.kitsu.apiary.io/){:target="_blank"} |
+| Studio Ghibli | Resources from Studio Ghibli films | No | Yes | [Go!](https://ghibliapi.herokuapp.com){:target="_blank"} |
 
 ### Anti-Malware
 API | Description | Auth | HTTPS | Link |
