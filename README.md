@@ -79,7 +79,7 @@ API | Description | Auth | HTTPS | Link |
 ### Anti-Malware
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| AlienVault Open Threat Exchange (OTX) | IP/domain/URL reputation | `apiKey` | Yes | <a href="http://docs.kitsu.apiary.io/" target="_blank">Go!</a> |
+| AlienVault Open Threat Exchange (OTX) | IP/domain/URL reputation | `apiKey` | Yes | <p><a href="http://docs.kitsu.apiary.io/" target="_blank">Go!</a></p> |
 | Certly | Certly Link/Domain Flagging | `apiKey` | Yes | [Go!](https://guard.certly.io/) |
 | Google Safe Browsing | Google Link/Domain Flagging | `apiKey` | Yes | [Go!](https://developers.google.com/safe-browsing/) |
 | Metacert | Metacert Link Flagging | `apiKey` | Yes | [Go!](https://metacert.com/) |
